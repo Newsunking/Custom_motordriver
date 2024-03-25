@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "A3944KLPTRT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "A3944KLPTRT")
+        (spec "default")
+    )
+)

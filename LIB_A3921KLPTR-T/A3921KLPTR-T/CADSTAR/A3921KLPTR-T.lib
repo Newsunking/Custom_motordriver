@@ -1,0 +1,18 @@
+.A3921KLPTR-T :1 ;Automotive Full Bridge MOSFET Driver
+A3944KLPTRT
+*STM IC
+*NGS
+*PLB 1="VDRAIN" 2="LSS" 3="GLB" 4="SB" 5="GHB" 6="CB" 7="NC_1" 8="VREG" 9="CA" 10="GHA" 11="SA" 12="GLA" 13="VBB" 14="NC_2" 15="CP2" 16="CP1" 17="GND" 18="NC_3" 19="PHASE" 20="V5" 21="SR" 22="PWML" 23="PWMH" 24="RESET" 25="FF1" 26="FF2" 27="RDEAD" 28="VDSTH" 29="EP"
+*MXP 29
+*DFN A3921KLPTR-T
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (A3921KLPTR-T)
+~!Mouser Part Number (250-A3921KLPTR-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A3921KLPTR-T?qs=pUKx8fyJudB0kHLM8sWE6w%3D%3D)
+~!Arrow Part Number (A3921KLPTR-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/a3921klptr-t/allegro-microsystems?region=nac)
+~!Link Datasheet (http://www.allegromicro.com/~/media/files/datasheets/a3921-datasheet.pdf)
+~!Height (1.2mm)
+~!3D_Model (A3921KLPTR-T)
+A3921KLPTR-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 

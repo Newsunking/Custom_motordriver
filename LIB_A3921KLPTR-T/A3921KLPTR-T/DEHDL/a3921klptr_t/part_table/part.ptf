@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A3921KLPTR_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "A3921KLPTR-T" (!) = "", "A3944KLPTRT", "Other", "250-A3921KLPTR-T", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A3921KLPTR-T?qs=pUKx8fyJudB0kHLM8sWE6w%3D%3D", "A3921KLPTR-T", "https://www.arrow.com/en/products/a3921klptr-t/allegro-microsystems?region=nac", "Automotive Full Bridge MOSFET Driver", "http://www.allegromicro.com/~/media/files/datasheets/a3921-datasheet.pdf", "1.2 mm"
+END_PART
+
+END.

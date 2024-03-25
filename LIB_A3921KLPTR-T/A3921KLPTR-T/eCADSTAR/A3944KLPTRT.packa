@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "A3921KLPTR-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-05-06-12:56:46)
+    (mountForm default
+        (footprintRef "A3944KLPTRT")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=A3921KLPTR-T
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=29
+Version=10.1
+Released=2018-03-31 08:26:38
+Downloaded=2024-03-16 13:57:53
+3D=Y
